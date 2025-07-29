@@ -52,14 +52,14 @@
           {
             "group": "Local",
             "pages": [
-              "tutorials/firststeps"
+              "tutorials/Quickstart"
             ]
           },
           {
             "group": "Docker",
             "pages": [
-              "tutorials/docker1",
-              "tutorials/docker2"
+              "tutorials/Single-node",
+              "tutorials/Multi-node"
             ]
           }
         ]
