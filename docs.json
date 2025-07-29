@@ -29,12 +29,20 @@
             ]
           },
           {
+            "group": "Data Model",
+            "pages": [
+              "guides/conceptualmodel",
+              "guides/StoryPipeline"
+            ]
+          },
+          {
             "group": "Architecture",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "guides/ArchitectureOverview",
+              "guides/chronovisor",
+              "guides/chronokeeper",
+              "guides/chronographer",
+              "guides/chronoplayer"
             ]
           },
           {
