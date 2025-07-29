@@ -16,40 +16,34 @@
           {
             "group": "Getting started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "guides/gettingStarted/index",
+              "guides/gettingStarted/gettingstarted",
+              "guides/gettingStarted/installation",
+              "guides/gettingStarted/configuration"
             ]
           },
           {
             "group": "Data Model",
             "pages": [
-              "guides/conceptualmodel",
-              "guides/StoryPipeline"
+              "guides/dataModel/conceptualmodel",
+              "guides/dataModel/StoryPipeline"
             ]
           },
           {
             "group": "Architecture",
             "pages": [
-              "guides/ArchitectureOverview",
-              "guides/chronovisor",
-              "guides/chronokeeper",
-              "guides/chronographer",
-              "guides/chronoplayer"
+              "guides/architecture/overview",
+              "guides/architecture/chronovisor",
+              "guides/architecture/chronokeeper",
+              "guides/architecture/chronographer",
+              "guides/architecture/chronoplayer"
             ]
           },
           {
             "group": "Deployment",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "guides/deployment/local",
+              "guides/deployment/distributed"
             ]
           }
         ]
