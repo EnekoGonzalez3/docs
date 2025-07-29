@@ -78,10 +78,15 @@
           {
             "group": "C++",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "api-reference/c++/connect",
+              "api-reference/c++/createChronicle",
+              "api-reference/c++/acquireStory",
+              "api-reference/c++/logEvents",
+              "api-reference/c++/replayStory",
+              "api-reference/c++/releaseStory",
+              "api-reference/c++/destroyStory",
+              "api-reference/c++/destroyChronicle",
+              "api-reference/c++/disconnect"
             ]
           },
           {
