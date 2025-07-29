@@ -92,10 +92,15 @@
           {
             "group": "Python",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "api-reference/python/connect",
+              "api-reference/python/createChronicle",
+              "api-reference/python/acquireStory",
+              "api-reference/python/logEvents",
+              "api-reference/python/replayStory",
+              "api-reference/python/releaseStory",
+              "api-reference/python/destroyStory",
+              "api-reference/python/destroyChronicle",
+              "api-reference/python/disconnect"
             ]
           }
         ]
