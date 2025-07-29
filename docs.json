@@ -88,19 +88,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Repository",
+          "href": "https://github.com/grc-iit/ChronoLog",
+          "icon": "github"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Official Paper",
+          "href": "http://cs.iit.edu/~scs/assets/files/kougkas2020chronolog.pdf",
+          "icon": "file-text"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Gnosis Research Center",
+          "href": "https://grc.iit.edu/",
+          "icon": "globe"
         }
       ]
     }
