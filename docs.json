@@ -29,7 +29,7 @@
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Architecture",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -38,11 +38,28 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Deployment",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "essentials/settings",
+              "essentials/navigation"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Tutorials",
+        "groups": [
+          {
+            "group": "Local",
+            "pages": [
+              "tutorials/firststeps"
+            ]
+          },
+          {
+            "group": "Docker",
+            "pages": [
+              "tutorials/docker1",
+              "tutorials/docker2"
             ]
           }
         ]
