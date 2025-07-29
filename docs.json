@@ -16,7 +16,7 @@
           {
             "group": "Getting started",
             "pages": [
-              "index",
+              "guides/gettingStarted/index",
               "guides/gettingStarted/gettingstarted",
               "guides/gettingStarted/installation",
               "guides/gettingStarted/configuration"
