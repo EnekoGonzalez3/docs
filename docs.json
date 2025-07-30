@@ -134,8 +134,8 @@
     }
   },
   "logo": {
-    "light": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png",
-    "dark": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png"
+    "light": "https://github.com/grc-iit/ChronoLog/blob/develop/doc/images/logos/logo-chronolog.png",
+    "dark": "https://github.com/grc-iit/ChronoLog/blob/develop/doc/images/logos/logo-chronolog.png"
   },
   "navbar": {
     "links": [
