@@ -49,8 +49,8 @@
           {
             "group": "Getting Involved",
             "pages": [
-              "guides/gettingInvolved/codeStyle",
-              "guides/gettingInvolved/contributors"
+              "guides/gettingInvolved/contributors",
+              "guides/gettingInvolved/codeStyle"
             ]
           }
         ]
