@@ -140,6 +140,7 @@
   "navbar": {
     "links": [
       {
+        "label": "Support",
         "href": "mailto:hi@mintlify.com"
       }
     ],
