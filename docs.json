@@ -134,13 +134,12 @@
     }
   },
   "logo": {
-    "light": "https://github.com/grc-iit/ChronoLog/blob/develop/doc/images/logos/logo-chronolog.png",
-    "dark": "https://github.com/grc-iit/ChronoLog/blob/develop/doc/images/logos/logo-chronolog.png"
+    "light": "/logo/logo-chronolog.png",
+    "dark": "/logo/logo-chronolog.png"
   },
   "navbar": {
     "links": [
       {
-        "label": "Support",
         "href": "mailto:hi@mintlify.com"
       }
     ],
