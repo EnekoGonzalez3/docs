@@ -45,6 +45,13 @@
               "guides/deployment/local",
               "guides/deployment/distributed"
             ]
+          },
+          {
+            "group": "Getting Involved",
+            "pages": [
+              "guides/gettingInvolved/codeStyle",
+              "guides/gettingInvolved/contributors"
+            ]
           }
         ]
       },
@@ -127,8 +134,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png",
+    "dark": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png"
   },
   "navbar": {
     "links": [
